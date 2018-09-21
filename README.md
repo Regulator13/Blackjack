@@ -1,2 +1,2 @@
 # Blackjack
-A short Blackjack game programmed in python
+A simple Blackjack game programmed in python
